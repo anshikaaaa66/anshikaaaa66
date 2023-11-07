@@ -1,3 +1,5 @@
+![logo](https://github.com/anshikaaaa66/anshikaaaa66/blob/main/Make%20your%20README.png)
+
 <h1 align="center">Hi 👋, I'm Anshika Sharma</h1>
 <h3 align="center">web devloper | UI/UX Designer | mern stack devloper</h3>
 

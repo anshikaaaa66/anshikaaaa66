@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika Sharma</h1>
 <h3 align="center">web devloper | UI/UX Designer | mern stack devloper</h3>
 
-<img align="right"alt="coding" width="400" src="![image](https://github.com/anshikaaaa66/anshikaaaa66/assets/114801116/a9b14037-1a31-4291-85f9-043cbffba081)
+<img align="right"alt="coding" width="400" src="![image](https://github.com/anshikaaaa66/anshikaaaa66/assets/114801116/b02a56be-bd5e-46db-85e6-6bab610041c8)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaaaa66&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaaaa66" /> </p>

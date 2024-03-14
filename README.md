@@ -1,4 +1,4 @@
-
+<img src="" alt="image"/>
 
 <h1 align="center">Hi 👋, I'm Anshika Sharma</h1>
 <h3 align="center">web devloper | UI/UX Designer | mern stack devloper</h3>

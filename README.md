@@ -1,5 +1,4 @@
-![logo](![image](https://github.com/anshikaaaa66/anshikaaaa66/assets/114801116/5a376dd8-773f-4d73-a0f8-e589adda148f)
-)
+
 
 <h1 align="center">Hi 👋, I'm Anshika Sharma</h1>
 <h3 align="center">web devloper | UI/UX Designer | mern stack devloper</h3>

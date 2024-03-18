@@ -1,7 +1,7 @@
-<img src="" alt="image"/>
+<img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=54254370500144225" height="295" width="345" frameborder="0" scrolling="no" ></iframe>" alt="image"/>
 
-<h1 align="center">Hi 👋, I'm Anshika Sharma</h1>
-<h3 align="center">web devloper | UI/UX Designer | mern stack devloper</h3>
+<h1 align="center">Hi 👋, I'm Anshika Sharma👩🏻‍💻</h1>
+<h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaaaa66&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaaaa66" /> </p>
 
-- 🔭 I’m currently working on **machine learning project**
+- 🌆 I’m currently working on **machine learning project**
 
 - 🌱 I’m currently learning **mongoDB,mysql**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshikash66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshikash66" height="30" width="40" /></a>
+<a href="https://twitter.com/anshikash66" target="blank"><img align="center" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=987273549551492890" height="445" width="345" frameborder="0" scrolling="no" ></iframe>" alt="anshikash66" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshika-sharma-13999a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-sharma-13999a24a" height="30" width="40" /></a>
 <a href="https://www.behance.net/anshikash66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anshikash66" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anshikash10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshikash10" height="30" width="40" /></a>

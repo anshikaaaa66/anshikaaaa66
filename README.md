@@ -1,16 +1,16 @@
-<img src="https://i.pinimg.com/564x/e2/67/be/e267be3228b724ec30b3c247e7a690cb.jpg">
+<img src="https://i.pinimg.com/originals/51/dc/e6/51dce6f2a7efa8981c57ebe54943fa01.gif">
 
 <h1 align="center">Hi 👋, I'm Anshika Sharma👩🏻‍💻</h1>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
 
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/anshikaaaa66/anshikaaaa66/assets/114801116/b02a56be-bd5e-46db-85e6-6bab610041c8">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaaaa66&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaaaa66" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" /> </p>
 
 - 🌆 I’m currently working on **machine learning project**
 

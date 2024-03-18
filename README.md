@@ -1,4 +1,4 @@
-<img src="https://assets.pinterest.com/ext/embed.html?id=54254370500144225" height="295" width="345" frameborder="0" scrolling="no" ></iframe>" alt="image"/>
+<img src="https://i.pinimg.com/564x/e2/67/be/e267be3228b724ec30b3c247e7a690cb.jpg">
 
 <h1 align="center">Hi 👋, I'm Anshika Sharma👩🏻‍💻</h1>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>

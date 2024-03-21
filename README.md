@@ -1,5 +1,5 @@
 
-<img src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif" alt="this is an image" width="500px" height="500px" />
+<img src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" alt="this is an image" width="500px" height="500px" />
 <h1 align="center">Hi 👋, I'm Anshika Sharma👩🏻‍💻</h1>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
 

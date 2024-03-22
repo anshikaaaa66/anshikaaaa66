@@ -5,11 +5,11 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/b7/03/3a/b7033a3095148d44340fe493654f2000.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
 
 
 
- <img src="https://i.pinimg.com/originals/51/dc/e6/51dce6f2a7efa8981c57ebe54943fa01.gif" /> 
+
 
 - 🌆 I’m currently working on **machine learning project**
 

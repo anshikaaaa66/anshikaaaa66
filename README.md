@@ -1,6 +1,7 @@
 <p><h1 align="center">ANSHIKA SHARMA👩🏻‍💻</h1></p>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
-<img src="https://lh3.googleusercontent.com/DPvl2i1ZI7E2U7rOr9nVwWvmDnk-FE2mcoiSGsTe936Eo74cr7ewOIuIv707Zy-GDzPjWq1VsFn1xmn5=s265-w265-h265 alt="profile logo" width="500" height="600"> 
+<img src="![image](https://github.com/anshikaaaa66/anshikaaaa66/assets/114801116/fd56535c-f1ca-4071-a5f7-bf6045a0c56d)">
+
 
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGAOKEVxRs&#x2F;Lla5qDzP0SqphWLxkj2YBg&#x2F;view?utm_content=DAGAOKEVxRs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">anshika sharma</a> by ANSHIKA SHARMA
 

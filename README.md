@@ -1,7 +1,7 @@
-
-<img src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" alt="this is an image" width="700px" height="300px" />
-<h1 align="center">Hi 👋, I'm Anshika Sharma👩🏻‍💻</h1>
+<p><h1 align="center">ANSHIKA SHARMA👩🏻‍💻</h1></p>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
+<img src="https://pin.it/20dl7tVeI" />
+
 
 
 

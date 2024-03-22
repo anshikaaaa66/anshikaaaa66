@@ -1,6 +1,6 @@
 <p><h1 align="center">ANSHIKA SHARMA👩🏻‍💻</h1></p>
 <h3 align="center">web devloper 👩🏻‍💻| UI/UX Designer🌆 | mern stack devloper</h3>
-<img src="C:\Users\sharm\Downloads\anshika sharma (1).png">
+<img src="https://www.canva.com/design/DAGAOKEVxRs/Lla5qDzP0SqphWLxkj2YBg/view">
 
 
 
